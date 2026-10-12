@@ -3,12 +3,12 @@
   "publish_job_status": "failure",
   "publish_job_status_note": "status of the job that PUBLISHED these results, not the conclusion of run_id -- this job is part of that run, so the run has not concluded here",
   "publish_job_failed_steps": "",
-  "run_id": "38213914832",
-  "run_number": "43",
+  "run_id": "38310748538",
+  "run_number": "44",
   "run_attempt": "1",
   "event": "schedule",
   "ref": "refs/heads/main",
-  "sha": "09a7d9cd8aae9f21352597a13ac6156f82ef1045",
-  "completed_utc": "2026-10-12T07:02:08Z",
-  "run_url": "https://github.com/nathanneuro/gam/actions/runs/38213914832"
+  "sha": "42e2ca0644826248833e10c33cfeba6362c9a6f9",
+  "completed_utc": "2026-10-12T21:50:23Z",
+  "run_url": "https://github.com/nathanneuro/gam/actions/runs/38310748538"
 }
