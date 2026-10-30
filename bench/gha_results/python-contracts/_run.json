@@ -3,12 +3,12 @@
   "publish_job_status": "failure",
   "publish_job_status_note": "status of the job that PUBLISHED these results, not the conclusion of run_id -- this job is part of that run, so the run has not concluded here",
   "publish_job_failed_steps": "step 7: Build and install gam extension (maturin build + wheel install)",
-  "run_id": "40927578235",
-  "run_number": "78",
+  "run_id": "41004180463",
+  "run_number": "79",
   "run_attempt": "1",
   "event": "schedule",
   "ref": "refs/heads/main",
-  "sha": "934af4f84eca2562ab1479ebb84b75d6aa529649",
-  "completed_utc": "2026-10-29T18:10:48Z",
-  "run_url": "https://github.com/nathanneuro/gam/actions/runs/40927578235"
+  "sha": "3ce9784f1a480459ad70df2d1ca3565c9996aae6",
+  "completed_utc": "2026-10-30T04:45:13Z",
+  "run_url": "https://github.com/nathanneuro/gam/actions/runs/41004180463"
 }
