@@ -2,13 +2,13 @@
   "workflow": "Python Contracts",
   "publish_job_status": "failure",
   "publish_job_status_note": "status of the job that PUBLISHED these results, not the conclusion of run_id -- this job is part of that run, so the run has not concluded here",
-  "publish_job_failed_steps": "",
-  "run_id": "41101372595",
-  "run_number": "80",
+  "publish_job_failed_steps": "step 7: Build and install gam extension (maturin build + wheel install)",
+  "run_id": "41168429794",
+  "run_number": "81",
   "run_attempt": "1",
   "event": "schedule",
   "ref": "refs/heads/main",
-  "sha": "9c71d650a8f6004c2327865d959400b806ed2c56",
-  "completed_utc": "2026-10-30T17:51:46Z",
-  "run_url": "https://github.com/nathanneuro/gam/actions/runs/41101372595"
+  "sha": "80bede992635f965562b04a8992cc1530c72bdde",
+  "completed_utc": "2026-10-31T04:29:32Z",
+  "run_url": "https://github.com/nathanneuro/gam/actions/runs/41168429794"
 }
