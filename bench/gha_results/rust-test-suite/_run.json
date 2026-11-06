@@ -2,13 +2,13 @@
   "workflow": "Rust CI",
   "publish_job_status": "failure",
   "publish_job_status_note": "status of the job that PUBLISHED these results, not the conclusion of run_id -- this job is part of that run, so the run has not concluded here",
-  "publish_job_failed_steps": "",
-  "run_id": "42181154601",
-  "run_number": "93",
+  "publish_job_failed_steps": "step 9: Fail the run if any failure was collected",
+  "run_id": "42282359742",
+  "run_number": "94",
   "run_attempt": "1",
   "event": "schedule",
   "ref": "refs/heads/main",
-  "sha": "cb134c618695b9504db3cc943c7faf3acc03302e",
-  "completed_utc": "2026-11-06T07:53:17Z",
-  "run_url": "https://github.com/nathanneuro/gam/actions/runs/42181154601"
+  "sha": "9bfc03f71e5321a8be1396fd0011bb40729b19a1",
+  "completed_utc": "2026-11-06T20:02:24Z",
+  "run_url": "https://github.com/nathanneuro/gam/actions/runs/42282359742"
 }
